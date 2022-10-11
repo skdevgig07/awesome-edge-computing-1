@@ -12,9 +12,10 @@ Inspired by [awesome-hyperledger-fabric](https://github.com/wearetheledger/aweso
 - [Articles](#articles)
 - [Community](#community)
 
-## Patforms
+## Platforms
 ### Open source
 - [EdgeX Foundry](https://www.edgexfoundry.org) - The Open Platform for the IoT Edge
+- [Explore Edge Computing](https://kandi.openweaver.com/explore/edge-computing) - Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 
 ### Commercial
 - [Google Cloud IoT](https://cloud.google.com/solutions/iot/) - Google Cloud IoT is a complete set of tools to connect, process, store, and analyze data both at the edge and in the cloud.
